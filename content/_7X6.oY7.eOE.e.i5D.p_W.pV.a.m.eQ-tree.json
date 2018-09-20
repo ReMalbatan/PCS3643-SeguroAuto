@@ -1,0 +1,196 @@
+
+{ 
+    identifier: 'id',
+    label: 'title',
+    items: [
+        {
+            title: 'Diagramas',
+            top: true,
+            id: '_DIAGRAMS_ROOT_NODE_',
+            icon: 'icon1222114910',
+            children: [
+                {_reference: '_04.v.o.sL.eSE.e.i5D.p_W.pV.a.m.eQ' },
+                {_reference: '_.g.gX.aUL.eSE.e.i5D.p_W.pV.a.m.eQ' },
+                {_reference: '_.i.wYK.kL.eRE.e.i5D.p_W.pV.a.m.eQ' }
+            ]
+        },
+        {
+            title: 'Blank Package::Vender Seguro',
+            id: '_.i.wYK.kL.eRE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_.i.wYK.kL.eRE.e.i5D.p_W.pV.a.m.eQ-content.html',
+            icon: 'icon-448193145'
+        },
+	
+        {
+            title: 'Blank Package::Registrar Status da Apólice',
+            id: '_.g.gX.aUL.eSE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_.g.gX.aUL.eSE.e.i5D.p_W.pV.a.m.eQ-content.html',
+            icon: 'icon-448193145'
+        },
+	
+        {
+            title: 'Blank Package::Gerar Relatorios administrativos',
+            id: '_04.v.o.sL.eSE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_04.v.o.sL.eSE.e.i5D.p_W.pV.a.m.eQ-content.html',
+            icon: 'icon-448193145'
+        },
+	
+        {
+            title: 'Modelos',
+            top: true,
+            id: '_MODELS_ROOT_NODE_',
+            icon: 'icon1222114910',
+            children: [
+                {_reference: '_7X6.oY7.eOE.e.i5D.p_W.pV.a.m.eQ' }
+            ]
+
+        },
+        {
+            title: 'Blank Package',
+            id: '_7X6.oY7.eOE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_7X6.oY7.eOE.e.i5D.p_W.pV.a.m.eQ-top-summary.html',
+            icon: 'icon1222114910',
+            children: [
+                {_reference: '_R.z.u.uIL.ePE.e.i5D.p_W.pV.a.m.eQ' },
+                {_reference: '_.u4A1UL.eSE.e.i5D.p_W.pV.a.m.eQ' },
+                {_reference: '_AUY.l.kL.eTE.e.i5D.p_W.pV.a.m.eQ' },
+                {_reference: '_.j806IL.eSE.e.i5D.p_W.pV.a.m.eQ' },
+                {_reference: '_O.oV.wML.ePE.e.i5D.p_W.pV.a.m.eQ' },
+                {_reference: '_4.wWMYL.eSE.e.i5D.p_W.pV.a.m.eQ' },
+                {_reference: '_3.z-.q.wL.eSE.e.i5D.p_W.pV.a.m.eQ' },
+                {_reference: '_U6WEUL.eQE.e.i5D.p_W.pV.a.m.eQ' },
+                {_reference: '_P.a.tBQL.ePE.e.i5D.p_W.pV.a.m.eQ' }
+            ]
+        }
+		,
+        {
+            title: 'Corretor/Comprador',
+            id: '_O.oV.wML.ePE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_O.oV.wML.ePE.e.i5D.p_W.pV.a.m.eQ-content.html',
+            icon: 'icon2091989910'
+        }
+		,
+        {
+            title: 'Vender seguro',
+            id: '_P.a.tBQL.ePE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_P.a.tBQL.ePE.e.i5D.p_W.pV.a.m.eQ-content.html',
+            icon: 'icon701326634',
+            children: [
+                {_reference: '_.aHL8.oL.eQE.e.i5D.p_W.pV.a.m.eQ' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.aHL8.oL.eQE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_.aHL8.oL.eQE.e.i5D.p_W.pV.a.m.eQ-content.html',
+            icon: 'icon945617092'
+        }
+		,
+        {
+            title: '',
+            id: '_R.z.u.uIL.ePE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_R.z.u.uIL.ePE.e.i5D.p_W.pV.a.m.eQ-content.html',
+            icon: 'icon-1836813533',
+            children: [
+                {_reference: '_R.z.u.uI.b.ePE.e.i5D.p_W.pV.a.m.eQ' },
+                {_reference: '_R.z.u.uJL.ePE.e.i5D.p_W.pV.a.m.eQ' }
+            ]
+        }
+		,
+        {
+            title: 'useCase1',
+            id: '_R.z.u.uI.b.ePE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_R.z.u.uIL.ePE.e.i5D.p_W.pV.a.m.eQ-content.html#_R.z.u.uI.b.ePE.e.i5D.p_W.pV.a.m.eQ',
+            icon: 'icon670428147'
+        }
+		,
+        {
+            title: 'usuario',
+            id: '_R.z.u.uJL.ePE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_R.z.u.uIL.ePE.e.i5D.p_W.pV.a.m.eQ-content.html#_R.z.u.uJL.ePE.e.i5D.p_W.pV.a.m.eQ',
+            icon: 'icon670428147'
+        }
+		,
+        {
+            title: 'Registrar status da apólice',
+            id: '_U6WEUL.eQE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_U6WEUL.eQE.e.i5D.p_W.pV.a.m.eQ-content.html',
+            icon: 'icon701326634'
+        }
+		,
+        {
+            title: 'Corretor',
+            id: '_.j806IL.eSE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_.j806IL.eSE.e.i5D.p_W.pV.a.m.eQ-content.html',
+            icon: 'icon2091989910'
+        }
+		,
+        {
+            title: '',
+            id: '_.u4A1UL.eSE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_.u4A1UL.eSE.e.i5D.p_W.pV.a.m.eQ-content.html',
+            icon: 'icon-1836813533',
+            children: [
+                {_reference: '_.u4A1VL.eSE.e.i5D.p_W.pV.a.m.eQ' },
+                {_reference: '_.u4A1U.b.eSE.e.i5D.p_W.pV.a.m.eQ' }
+            ]
+        }
+		,
+        {
+            title: 'registrar status da apólice',
+            id: '_.u4A1U.b.eSE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_.u4A1UL.eSE.e.i5D.p_W.pV.a.m.eQ-content.html#_.u4A1U.b.eSE.e.i5D.p_W.pV.a.m.eQ',
+            icon: 'icon670428147'
+        }
+		,
+        {
+            title: 'corretor',
+            id: '_.u4A1VL.eSE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_.u4A1UL.eSE.e.i5D.p_W.pV.a.m.eQ-content.html#_.u4A1VL.eSE.e.i5D.p_W.pV.a.m.eQ',
+            icon: 'icon670428147'
+        }
+		,
+        {
+            title: 'Gerente',
+            id: '_3.z-.q.wL.eSE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_3.z-.q.wL.eSE.e.i5D.p_W.pV.a.m.eQ-content.html',
+            icon: 'icon2091989910'
+        }
+		,
+        {
+            title: 'Gerar Relatórios administrativos',
+            id: '_4.wWMYL.eSE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_4.wWMYL.eSE.e.i5D.p_W.pV.a.m.eQ-content.html',
+            icon: 'icon701326634'
+        }
+		,
+        {
+            title: '',
+            id: '_AUY.l.kL.eTE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_AUY.l.kL.eTE.e.i5D.p_W.pV.a.m.eQ-content.html',
+            icon: 'icon-1836813533',
+            children: [
+                {_reference: '_AUY.l.k.b.eTE.e.i5D.p_W.pV.a.m.eQ' },
+                {_reference: '_AUY.l.lL.eTE.e.i5D.p_W.pV.a.m.eQ' }
+            ]
+        }
+		,
+        {
+            title: 'gerar Relatórios administrativos',
+            id: '_AUY.l.k.b.eTE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_AUY.l.kL.eTE.e.i5D.p_W.pV.a.m.eQ-content.html#_AUY.l.k.b.eTE.e.i5D.p_W.pV.a.m.eQ',
+            icon: 'icon670428147'
+        }
+		,
+        {
+            title: 'gerente',
+            id: '_AUY.l.lL.eTE.e.i5D.p_W.pV.a.m.eQ',
+            object: '_AUY.l.kL.eTE.e.i5D.p_W.pV.a.m.eQ-content.html#_AUY.l.lL.eTE.e.i5D.p_W.pV.a.m.eQ',
+            icon: 'icon670428147'
+        }
+		
+    ]
+}
+
+		
