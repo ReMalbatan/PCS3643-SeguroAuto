@@ -205,6 +205,15 @@
           <element xsi:nil="true"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DBXJM7eTEei5Dp_WpVameQ" x="6732" y="924" width="8678" height="5503"/>
         </children>
+        <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_z0G5cL0EEei_3Pp30gJu9w" element="_zy6moL0EEei_3Pp30gJu9w" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
+          <children xmi:type="notation:DecorationNode" xmi:id="_z0G5cr0EEei_3Pp30gJu9w" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_z0G5c70EEei_3Pp30gJu9w" width="1455" height="2381"/>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_z0G5dL0EEei_3Pp30gJu9w" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_z0G5db0EEei_3Pp30gJu9w" type="Name"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_z0QDYL0EEei_3Pp30gJu9w" type="Parent"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_z0G5cb0EEei_3Pp30gJu9w" x="7064" y="6191"/>
+        </children>
         <element xsi:nil="true"/>
         <edges xmi:type="umlnotation:UMLConnector" xmi:id="_AUYll7eTEei5Dp_WpVameQ" element="_AUYlkLeTEei5Dp_WpVameQ" source="_3z-qwbeSEei5Dp_WpVameQ" target="_4wf9YLeSEei5Dp_WpVameQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
           <children xmi:type="notation:DecorationNode" xmi:id="_AUYlmbeTEei5Dp_WpVameQ" type="NameLabel">
@@ -300,6 +309,7 @@
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_AUYllbeTEei5Dp_WpVameQ" value="1"/>
       </ownedEnd>
     </packagedElement>
+    <packagedElement xmi:type="uml:Actor" xmi:id="_zy6moL0EEei_3Pp30gJu9w" name="Rafael"/>
     <profileApplication xmi:id="_7X6oZ7eOEei5Dp_WpVameQ">
       <eAnnotations xmi:id="_7X6oaLeOEei5Dp_WpVameQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
