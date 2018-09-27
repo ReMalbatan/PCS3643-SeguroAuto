@@ -74,7 +74,7 @@
           <styles xmi:type="notation:TextStyle" xmi:id="_kbvPAb0JEeia8dWkfseWMg"/>
           <styles xmi:type="notation:LineTypeStyle" xmi:id="_kbvPAr0JEeia8dWkfseWMg"/>
           <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kbvPA70JEeia8dWkfseWMg" x="10692" y="2112" width="14216" height="10653"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kbvPA70JEeia8dWkfseWMg" x="19536" y="2772" width="14216" height="10653"/>
         </children>
         <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_whTSob0JEeia8dWkfseWMg" element="_whTSoL0JEeia8dWkfseWMg" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
           <children xmi:type="notation:DecorationNode" xmi:id="_whTSo70JEeia8dWkfseWMg" type="ImageCompartment">
